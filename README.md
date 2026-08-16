@@ -18,7 +18,6 @@ The project was built as an opportunity to develop and integrate a complete web 
 
 ### Database
 - PostgreSQL
-- Alembic
 
 ### Development & Deployment
 - Docker
